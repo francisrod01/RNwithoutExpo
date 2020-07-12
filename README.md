@@ -4,6 +4,7 @@ Being free from expo in React Native apps
 
 [![Github author](https://img.shields.io/static/v1?label=by&message=Francis%20Rodrigues&color=green)][1]
 ![GitHub last commit](https://img.shields.io/github/last-commit/francisrod01/RNwithoutExpo)
+![GitHub release](https://img.shields.io/github/release/francisrod01/RNwithoutExpo)
 ![GitHub top language](https://img.shields.io/github/languages/top/francisrod01/RNwithoutExpo)
 ![GitHub](https://img.shields.io/github/license/francisrod01/RNwithoutExpo)
 
