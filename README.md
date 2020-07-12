@@ -2,8 +2,19 @@
 
 Being free from expo in React Native apps
 
+[![Github author](https://img.shields.io/static/v1?label=by&message=Francis%20Rodrigues&color=green)][1]
+![GitHub last commit](https://img.shields.io/github/last-commit/francisrod01/RNwithoutExpo)
+![GitHub top language](https://img.shields.io/github/languages/top/francisrod01/RNwithoutExpo)
+![GitHub](https://img.shields.io/github/license/francisrod01/RNwithoutExpo)
+
 * Author: [Francis Rodrigues][1]
 * This is part of [Medium article][2]
+
+## Dependencies ##
+
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/francisrod01/RNwithoutExpo/react)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/francisrod01/RNwithoutExpo/react-native)
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/francisrod01/RNwithoutExpo/dev/metro-react-native-babel-preset)
 
 ## What this repo is talking about ##
 
