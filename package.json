@@ -5,7 +5,7 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
-    "react": "^16.8.3",
+    "react": "^16.14.0",
     "react-native": "^0.64.0"
   },
   "devDependencies": {
