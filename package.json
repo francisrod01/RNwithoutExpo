@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "react": "^16.14.0",
-    "react-native": "^0.64.0"
+    "react-native": "^0.64.1"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.53.1"
